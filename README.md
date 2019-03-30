@@ -16,7 +16,7 @@
 
 ## Installation
 
-Download the [latest version](https://github.com/lippenstift/jetbrains-color-scheme/releases/latest) of the
+Download the [latest version](https://github.com/lippenstift/jetbrains-material-theme/releases/latest) of the
 `lumio.xml` file. Navigate to the customization menu of the material plugin:  
 <kbd>File</kbd> > <kbd>Settings</kbd> > <kbd>Appearance & Behaviour</kbd> > <kbd>Material Custom Theme</kbd>.  
 Click on the cog icon, pick <kbd>Select XML file from disc</kbd> and select the downloaded `lumio.xml` file.
