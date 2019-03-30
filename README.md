@@ -12,8 +12,6 @@
   </a>
 </p>
 
----
-
 ## Installation
 
 Download the [latest version](https://github.com/lippenstift/jetbrains-material-theme/releases/latest) of the
