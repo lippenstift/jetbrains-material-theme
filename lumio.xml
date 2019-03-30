@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>Lumio</id>
+  <editorColorsScheme>Lumio</editorColorsScheme>
+  <dark>true</dark>
+  <name>Lumio</name>
+  <colors>
+    <color id="background" value="261e1eff"/>
+    <color id="foreground" value="e9dbccff"/>
+    <color id="text" value="a9917eff"/>
+    <color id="highlight" value="6a5a4eff"/>
+    <color id="selectionBackground" value="322726ff"/>
+    <color id="selectionForeground" value="d8c0b6ff"/>
+    <color id="button" value="322726ff"/>
+    <color id="secondaryBackground" value="241c1cff"/>
+    <color id="disabled" value="6a5a4eff"/>
+    <color id="contrast" value="241c1cff"/>
+    <color id="tableSelected" value="443533ff"/>
+    <color id="secondBorder" value="221a1aff"/>
+    <color id="treeSelection" value="322726ff"/>
+    <color id="notifications" value="221a1aff"/>
+    <color id="accent" value="a9917eff"/>
+    <color id="excluded" value="322726ff"/>
+  </colors>
+  <themeId>Lumio</themeId>
+</mtTheme>
